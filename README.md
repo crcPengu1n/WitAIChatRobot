@@ -169,13 +169,3 @@ The chatbot **retrieves chatrooms** dynamically from the API.
 - **Record a full walkthrough** of all chatbot functionalities.
 - **Embed as a Kaltura video** in the Canvas submission.
 
----
-
-## **🎉 Conclusion**
-🚀 **BadgerChat (Voice!)** showcases how **AI-powered chatbots** can enhance user interactions in chat applications.  
-✅ Built with **Wit.AI** and **React** for seamless NLP integration.  
-✅ Supports **user authentication, chatroom management, and dynamic messaging**.  
-✅ Implements **best security practices** and **intuitive chatbot logic**.  
-
-🔥 **Final CS571 project complete!** 🎊  
-Be sure to **commit, push, and submit your demo**!  
